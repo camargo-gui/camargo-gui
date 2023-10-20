@@ -6,7 +6,7 @@
 
 :call_me_hand: Welcome to my GitHub page! My name is Guilherme Camargo :ok_man:
 
-👨‍🎓:computer: Bacheloring in Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
+👨‍🎓:computer: Studying Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
 :man_technologist: Fullstack Developer at [**RubCube**](https://www.rubcube.com/)
 
