@@ -8,40 +8,21 @@
 
 👨‍🎓:computer: Bacheloring in Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
-:man_technologist: Frontend Developer at [**RubCube**](https://www.rubcube.com/)
+:man_technologist: Fullstack Developer at [**RubCube**](https://www.rubcube.com/)
 
 ### ⚡ Interested in Mobile Development
 <div>
 <img width="16%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
 </div>
 
-### 🌱 Tech stack
+### 🌱 About me
 
-```javascript
-const guilherme = {
-  code: [Typescript, Javascript, HTML, CSS, Java],
-  tools: [React Native, React JS, Node, Figma, Docker, Git],
-  frontEnd: true,
-  backEnd: true
-}
-```
+- 🌱 I'm currently learning about DevOps
+- 📫 Entre em contato: [Email](mailto:guilhermecolonhese@gmail.com)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo-gui&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📚 I'm currently learning
-
-- Docker and containers orchestration
-- Clean architecture
-- User interface and user experience
-
-### 💡 Goals for 2022
-
-- Know a little about UI/UX
-- Publish my first app in App Store and Google Play
-- Become skilled in Flutter
-- Grow as a person
 
 <br/>
 
