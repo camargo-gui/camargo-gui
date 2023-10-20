@@ -35,7 +35,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo-gui&layout=compact&theme=tokyonight)]
-
-<br/>
 
