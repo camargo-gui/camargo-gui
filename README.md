@@ -35,8 +35,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo-gui&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camargo-gui&layout=compact&theme=tokyonight)]
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=camargo-gui&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camargo-gui&count_private=true&show_icons=true&theme=radical)
