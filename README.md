@@ -18,7 +18,7 @@
 ### 🌱 About me
 
 - 📚 I'm currently learning about DevOps
-- 📫 Entre em contato: [Email](mailto:guilhermecolonhese@gmail.com)
+- 📫 Contact me: [Email](mailto:guilhermecolonhese@gmail.com)
 
 <br>
 
