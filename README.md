@@ -10,10 +10,23 @@
 
 :man_technologist: Fullstack Developer at [**RubCube**](https://www.rubcube.com/)
 
-### ⚡ Interested in Mobile Development
-<div>
-<img width="16%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
+
+<div align="left">
+  ### ⚡ Interested in Mobile Development
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guilherme-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Guilherme-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Guilherme-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Guilherme-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Guilherme-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Guilherme-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg">
+</div>
+  
+  ##
 
 ### 🌱 About me
 
@@ -26,4 +39,4 @@
 
 <br/>
 
-[![My_Stats](https://github-readme-stats.vercel.app/api?username=camargog-gui&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My_Stats](https://github-readme-stats.vercel.app/api?username=camargo-gui&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
