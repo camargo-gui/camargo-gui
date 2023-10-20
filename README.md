@@ -39,4 +39,4 @@
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camargo-gui&theme=vision-friendly-dark&hide_border=false&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camargo-gui&count_private=true)
