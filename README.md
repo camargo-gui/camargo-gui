@@ -11,9 +11,8 @@
 :man_technologist: Fullstack Developer at [**RubCube**](https://www.rubcube.com/)
 
 
-<div align="left">
-  ### ⚡ Interested in Mobile Development
-</div>
+
+### ⚡ Interested in Mobile Development
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
