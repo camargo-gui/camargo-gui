@@ -8,7 +8,7 @@
 
 👨‍🎓:computer: Studying Computer Science at [**FIPP - Unoeste**](https://unoeste.br/fipp/)
 
-:man_technologist: Fullstack Developer at [**RubCube**](https://www.rubcube.com/)
+:man_technologist: Backend and Frontend Developer at [**RubCube**](https://www.rubcube.com/)
 
 
 
