@@ -29,7 +29,7 @@
 
 ### 🌱 About me
 
-- 📚 I'm currently learning about DevOps
+- 📚 I'm currently learning about Unit Tests
 - 📫 Contact me: [Email](mailto:guilhermecolonhese@gmail.com)
 
 <br>
